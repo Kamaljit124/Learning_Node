@@ -1,0 +1,19 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaljit124/Learning_Node.git"
+  },
+  "author": "Kamaljit124",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaljit124/Learning_Node/issues"
+  },
+  "homepage": "https://github.com/Kamaljit124/Learning_Node#readme"
+}
